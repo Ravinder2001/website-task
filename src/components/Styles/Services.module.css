@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    margin-top: 100px;
+   font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box{
+    width: 30%;
+    float: left;
+    margin: 20px;
+}
+.logo{
+    color: rgb(7, 180, 180);
+    font-size: 40px;
+    float: left;
+    margin-left: 60px;
+}
+.head{
+    font-size: 25px;
+}
+.text{
+    font-size: 18px;
+    width: 200px;
+    color: gray;
+}

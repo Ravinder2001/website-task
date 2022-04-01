@@ -1,0 +1,58 @@
+.black{
+    width: 100%;
+    height: 25px;
+    background-color: #3a3a3a;
+    display: flex;
+    padding: 10px;
+}
+.phone{
+    color: white;
+    margin-left: 7rem;
+   font-weight: bolder;
+   font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-size: 1rem;
+}
+.email{
+    color: white;
+    margin-left: 2rem;
+    font-weight: bolder;
+   font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-size: 1rem;
+}
+.white{
+    background-color: white;
+    
+    width: 100%;
+    height: 70px;
+   position: sticky;
+   top: 0px;
+
+}
+.nav_logo{
+    margin-left: 100px;
+    margin-top: 15px;
+    font-size: 5vh;
+    float: left;
+    
+}
+.logo_dot{
+    float: left;
+    font-size: 5vh;
+    margin-top: 15px;
+    color: #32dbc6;
+}
+.nav_btn{
+    float: left;
+    margin: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: gray;
+}
+.nav_btn:hover{
+    color: #32dbc6;
+    cursor: pointer;
+}
+.icon{
+    color: #32dbc6;
+   margin-left: 20px;
+   font-size: 20px;
+}
